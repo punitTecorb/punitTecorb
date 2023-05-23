@@ -1,4 +1,5 @@
 :telescope: **I'm currently working on**: Node js, Mongodb, TypeScript, OpenAI and GraphQL.
+:telescope: **Experienced**: Node js, Mongodb, TypeScript, JavaScript, Nodemailer, Twilio, Socket.io, JWT Token, Logger, OpenAI and GraphQL.
 # My Stats :chart_with_upwards_trend:
 <p align="center">
   <a href="https://github.com/punitTecorb?tab=repositories">
