@@ -1,5 +1,19 @@
-:telescope: **I'm currently working on**: Node js, Mongodb, TypeScript, OpenAI and GraphQL.
-:seedling: **Experienced**: Node js, Mongodb, TypeScript, JavaScript, Nodemailer, Twilio, Socket.io, JWT Token, Logger, OpenAI and GraphQL.
+:telescope: **I'm currently working on**: Node js, Mongodb, TypeScript, JavaScriptand GraphQL.
+
+:telescope: **Experienced**: 
+- Node js - Nodemailer, Twilio, Firebase, Socket.io, JWT Token, Logger
+- Mongodb
+- GraphQL
+- TypeScript, JavaScript
+- AWS
+
+:seedling: **Learning**:
+- OpenAi - Fine-Tunes
+
+
+📧 punit.sharma@tecorb.co </br>
+📞 +91 9958387782
+
 # My Stats :chart_with_upwards_trend:
 <p align="center">
   <a href="https://github.com/punitTecorb?tab=repositories">
@@ -33,5 +47,3 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=punittecorb&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
-- :mailbox: How to reach me </br>
- Email: punit.sharma@tecorb.co </br>
