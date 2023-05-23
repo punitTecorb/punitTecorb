@@ -1,4 +1,4 @@
-:telescope: **I'm currently working on**: Node js, Mongodb, TypeScript, JavaScriptand GraphQL.
+:telescope: **I'm currently working on**: Node js, Mongodb, TypeScript, JavaScript and GraphQL.
 
 :telescope: **Experienced**: 
 - Node js - Nodemailer, Twilio, Firebase, Socket.io, JWT Token, Logger
