@@ -1,7 +1,7 @@
 :telescope: **I'm currently working on**: Node js, Mongodb, TypeScript, OpenAI and GraphQL.
 # My Stats :chart_with_upwards_trend:
 <p align="center">
-  <a href="https://github.com/punitTecorb?tab=stars">
+  <a href="https://github.com/punitTecorb?tab=repositories">
     <img src="https://github-profile-trophy.vercel.app/?username=punitTecorb&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="punittecorb" />
   </a>
 </p>
